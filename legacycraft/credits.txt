@@ -1,0 +1,10 @@
+Better Than Adventure - https://github.com/Better-than-Adventure
+Better Than Wolves - https://github.com/BTW-Community/BTW-Public
+Builtin Item - https://github.com/PilzAdam/builtin_item
+Legacy+ - https://legacy-plus.dejvoss.cz/about/
+MineClone2 - https://content.minetest.net/packages/Wuzzy/mineclone2/
+Minecolina - https://codeberg.org/mineclonia/mineclonia
+Minecraft - https://www.minecraft.net/en-us
+New Frontier Craft - https://newfrontiercraft.net/
+The Aether 2 - https://www.curseforge.com/minecraft/mc-mods/aether-ii
+Twilight Forest - https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
